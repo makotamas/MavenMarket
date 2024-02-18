@@ -8,4 +8,4 @@ MavenMarket (PowerBI)
 
 3 pages
 
-Analysis of more than 200,000 row data sources
+Analysis of more than 200000 row data sources
